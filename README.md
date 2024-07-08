@@ -5,4 +5,6 @@
 * Создание и редактирование задач: формы для добавления новых задач и редактирования существующих.
 * Удаление задач: возможность удаления задач
   ![Иллюстрация к проекту]( https://github.com/Solov18/furniture_Scrum_Board/blob/main/alta1.jpg)
+  ![Иллюстрация к проекту]( https://github.com/Solov18/furniture_Scrum_Board/blob/main/alta2.jpg)
+  
   
